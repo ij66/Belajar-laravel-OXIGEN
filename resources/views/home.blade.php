@@ -43,9 +43,11 @@
   </div>
 </nav>
     <!-- Akhir Navbar -->
-
+<section class="pb-4" style="background-color: #fef9eb">
+  
+</section>
     <!-- Jumbotron -->
-  <section class="jumbotron text-center" >
+  <section class="jumbotron text-center pt-5" style="background-color: #fef9eb">
     <img src="{{asset('img/profile.jpg')}}" alt="M Rifaizh D W" width="200" class="rounded-circle img-thumbnail">
     <h1 class="display-4  fw-bold">M Rifaizh Dzikir W</h1>
     <p class="lead">Industrial Engineering | Content creator</p>
@@ -55,7 +57,7 @@
     <!-- Akhir Jumbotron -->
 
     <!-- About -->
-    <section id="About">
+    <section id="About" class="pt-5">
       <div class="container">
         <div class="row text-center mb-3">
           <div class="col">
@@ -77,7 +79,7 @@
     <!-- Akhir About -->
 
     <!-- Projects -->
-    <section id="projects" style="background-color: #fef9eb">
+    <section id="projects" style="background-color: #fef9eb" class="pt-5">
       <div class="container">
         <div class="row text-center mb-3">
           <div class="col">
@@ -132,7 +134,7 @@
     <!-- Akhir Projects -->
 
     <!-- Contact -->
-    <section id="contact">
+    <section id="contact" class="pt-5">
       <div class="container">
         <div class="row text-center mb-3">
           <div class="col">
