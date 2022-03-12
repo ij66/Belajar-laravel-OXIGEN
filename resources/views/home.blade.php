@@ -12,7 +12,7 @@
     <!-- My CSS -->
     <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
  
-    <link rel="shortcut icon" href="{{asset('img/logo title/1.png')}}">
+    <link rel="shortcut icon" href="{{secure_asset('img/logo title/1.png')}}">
 
     <title>My Portfolio | M Rifaizh D W</title>
   </head>
