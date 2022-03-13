@@ -67,10 +67,10 @@
         </div>
         <div class="row justify-content-center fs-6 text-center">
           <div class="col-md-6">
-            <p>Teknik Industri adalah bidang ilmu yang mempelajari bagaimana mengoptimalisasi kegiatan manusia seperti; produksi, pengelolaan dan ekonomi. Lulusan Teknik Industri nantinya bertanggungjawab atas optimalisasi praktis dari sistem produksi pabrik, proposal strategi, serta desain optimal manajemen perusahaan. Di jurusan Teknik Industri, kamu akan banyak melakukan penyelesaian masalah melalui pendekatan matematis.</p>
+            <p>Teknik Industri adalah bidang ilmu yang mempelajari bagaimana mengoptimalisasi kegiatan manusia seperti; produksi, pengelolaan dan ekonomi. Lulusan Teknik Industri nantinya bertanggungjawab atas optimalisasi praktis dari sistem produksi pabrik, proposal strategi, serta desain optimal manajemen perusahaan. </p>
           </div>
           <div class="col-md-6">
-            <p>Pengertian Content Creator – Besarnya perkembangan internet di Indonesia seiring dengan penambahan infrastruktur dalam teknologi kemudian membuat para pelaku bisnis memiliki keleluasaan dalam memilih suatu media dan format apa yang akan digunakan dalam penyampaian pesan terbaik kepada para konsumennya.</p>
+            <p>Mengumpulkan ide, melakukan riset, membuat konsep, dan menciptakan suatu konten, baik berupa tulisan, gambar, video, suara, ataupun gabungan dari dua atau lebih materi merupakan pekerjaan atau kegiatan yang dilakukan seorang content creator. </p>
           </div>
 
         </div>
@@ -92,7 +92,7 @@
             <div class="card" >
               <img src="{{asset('img/projects/1.jpg')}}" class="card-img-top" alt="Projects 1">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Arduino adalah mikrokontroller / pengendali mikro papan tunggal yang bersifat sumber terbuka dan menjadi salah satu proyek Open Source Hardware yang paling populer.</p>
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@
             <div class="card" >
               <img src="{{asset('img/projects/2.jpg')}}" class="card-img-top" alt="Projects 2">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Hardwarenya memiliki prosesor Atmel AVR dan softwarenya memiliki bahasa pemrograman sendiri.</p>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@
             <div class="card" >
               <img src="{{asset('img/projects/3.jpg')}}" class="card-img-top" alt="Projects 3">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Tujuan awal dibuat Arduino adalah untuk membuat perangkat mudah dan murah, dari perangkat yang ada saat itu.</p>
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@
             <div class="card" >
               <img src="{{asset('img/projects/4.jpg')}}" class="card-img-top" alt="Projects 4">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Kegunaan Arduino tergantung kepada kita yang membuat program. Arduino bisa digunakan untuk mengontrol LED, bisa juga digunakan untuk mengontrol helikopter. Tidak perlu perangkat chip programmer karena di dalamnya sudah ada bootloader yang akan menangani upload program dari komputer.</p>
               </div>
             </div>
           </div>
@@ -124,7 +124,7 @@
             <div class="card" >
               <img src="{{asset('img/projects/5.jpg')}}" class="card-img-top" alt="Projects 5">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Salah satu keunggulan dari Mikrokontroler ini adalah memiliki port USB yang bisa disambungkan ke laptop. selain itu, Arduino Uno juga memiliki berbagai macam port, yaitu : Power Jack, IOREF, Reset, 3,3V, GND, Vin, dan Analog Input.</p>
               </div>
             </div>
           </div> 
