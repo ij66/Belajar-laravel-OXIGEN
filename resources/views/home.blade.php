@@ -10,7 +10,7 @@
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <!-- My CSS -->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{secure_asset('css/style.css')}}">
  
     <link rel="shortcut icon" href="{{secure_asset('img/logo title/1.png')}}">
 
